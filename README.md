@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MwangiMuiruri a Data Scientist greatly invested in R statistical software
+- 👋 Hi, I’m @MwangiMuiruri, a Data Scientist greatly invested in R statistical software
 - 👀 I’m interested in software and database systems development using PHP APACHE and SQL
 - 🌱 I’m currently learning OOP in PHP 
 - 💞️ I’m looking to collaborate on buiding Database Systems using PHP
